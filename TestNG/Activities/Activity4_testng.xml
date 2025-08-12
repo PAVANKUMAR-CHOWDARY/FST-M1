@@ -2,8 +2,8 @@
 <suite name="ExampleSuite" >
     <test name="SuiteTests" >
         <classes>
-            <class name="suiteExample.DemoOne"/>
-            <class name="suiteExample.DemoTwo"/>
+            <class name="suiteExample.Activity4_DemoOne"/>
+            <class name="suiteExample.Activity4_DemoTwo"/>
         </classes>
     </test>
 </suite>
